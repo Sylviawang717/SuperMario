@@ -1,5 +1,5 @@
 # SuperMario
-*Principle 1: Purpose of collection of personal information 
+#Principle 1: Purpose of collection of personal information 
 
 Why do we need your personal detail?
 - [ ] We only use your information to understand our market orientation
