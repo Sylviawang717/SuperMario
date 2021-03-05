@@ -3,6 +3,19 @@
 
 Why do we need your personal detail?
 - [ ] We only use your information to understand our market orientation
+<!-- this is getting close to the status quo e.g. "We only use your information to provide you with relevant recommentations." However these items that you have listed are not 'actionable', but are rather statements.  
+
+how would I "do" the above?
+
+Please reformat the items to be actionable.
+
+e.g
+
+- [ ] The user is aware of the purpose of the personal information we collect
+
+-->
+
+
 - [ ] We can discover new market by people they are not our client
 
 ## Principle 2 : Source of personal information
