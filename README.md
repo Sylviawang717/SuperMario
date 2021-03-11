@@ -1,6 +1,6 @@
 # SuperMario
 
-# Privacy Checklist:
+# Privacy Checklist
 
 ## Principle 1: Purpose of collection of personal information 
 
