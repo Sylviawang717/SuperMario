@@ -1,43 +1,29 @@
 # SuperMario
 ## Principle 1: Purpose of collection of personal information 
 
-Why do we need your personal detail?
-- [ ] We only use your information to understand our market orientation
-<!-- this is getting close to the status quo e.g. "We only use your information to provide you with relevant recommentations." However these items that you have listed are not 'actionable', but are rather statements.  
+- [ ] The users are aware the purpose of the personal information we collected.
+- [ ] The users shall be informed of the specific purpose for which it is being collected not later than the moment of collection;
 
-how would I "do" the above?
-
-Please reformat the items to be actionable.
-
-e.g
-
-- [ ] The user is aware of the purpose of the personal information we collect
-
--->
-
-
-- [ ] We can discover new market by people they are not our client
 
 ## Principle 2 : Source of personal information
 
-What personal detail information do we require?
-- [ ] We will collect your location you go shopping the most 
-- [ ] We will collect your age, hobby and favourite brand etc.
+- [ ] The Personal Data shall be collected fairly and lawfully for the specified purposes 
+- [ ] The users can reject to provide any sensitive information, for example political opinions or religion. 
+
 
 ## Principle 5: Storage and security of personal information
 
-How do we protect your personal detail?
-- [ ] Those  information you provide to us is maintained on secure servers and our internal systems.
-- [ ] We maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system
+- [ ] Do not pass on users’ personal data to someone else unless users specifically consents that it can so communicate their information
+- [ ] Users may concerned their data would be sold to third party.
 
 ## Principle 6 : Access to personal information
 
-How can you access to your account?
-- [ ]  Customers can easily log in their account from our online store  
-- [ ]  Clients also can go to our physical stores to ask for assistance.
+- [ ] Make sure Users’ shall be able to view the personal data
+- [ ] People who have access either to the databases that store user information or to the servers that host the Services shall comply with strict security rule.
+
 
 ## Principle 7: Correction of personal information
 
-How to update your personal information?
-- [ ]  We provide mechanisms for updating and correcting your personal detail in physical shop
-- [ ]  You may access and update your registration information or by sending an e-mail for assistance
+- [ ]  Users can request any personal data that is inaccurate, irrelevant or out of date be amended or deleted
+- [ ]  Users can stop using the services and their Personal Data deleted
+
